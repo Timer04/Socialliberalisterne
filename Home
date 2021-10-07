@@ -1,0 +1,162 @@
+<html>
+    <link rel="icon" href="SL (1).png">
+<head>
+    
+<title>Socialliberalisterne</title>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+
+.ydreboks {
+    
+display: grid;
+
+grid-template-columns: 18.5% 20% 20% 20%;
+
+grid-column-gap: 1em;
+
+grid-row-gap: 1em;
+
+padding-top: 5em;
+
+grid-template-rows: 50% 50% 60% 60%;
+
+}
+
+.ydreboks > div {
+
+background-color:white;
+
+border-style: solid; border-spacing: 100px
+    
+    
+}
+
+.ydreboks > div:nth-child(odd) {
+
+background-color:white; 
+
+border-style: solid; border-spacing: 100px
+}
+
+ul {
+
+list-style-type: none;
+
+margin: 0;
+
+padding: 0;
+
+overflow: hidden;
+
+background-color: black;
+
+position: fixed;
+
+width: 98.7%;
+
+text-align: center;
+
+font-family: courier;
+
+
+}
+
+li {
+
+float: left;
+
+
+}
+
+li a {
+
+display: block;
+
+color: white;
+
+padding: 15px 100px;
+
+text-decoration: none;
+
+margin: auto;
+
+
+}
+
+li a:hover {
+
+background-color: darkseagreen;
+
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+<ul>
+<li><a href="Home page.html">Hjem</a></li>
+
+<li><a href="Partimedlemmer.html">Partimedlemmer</a></li>
+
+<li><a href="About.html">Om os</a></li>
+
+<li><a href="https://youtu.be/s1yRto7dvlg">Reklamevideo</a></li>
+
+<li><a href="#about"></a></li>
+
+<li><a href="#about"></a></li>
+
+</ul>
+
+<div class="ydreboks">
+
+<div style="background-image: " >
+<img src="SL (1).png" width="349" height="250">
+</div>
+
+<div>
+    <span style="font-size: 20px"><strong>Der skal ikke være skat på arv</strong> </span> <br> <br>Vi går ind for at der ik skal være skat på arv, fordi arven allerede er betalt skat af. de personer man arver af har arbejdet for de penge og betalt skat af dem i den tid, derfor mener vi at det ik giver meningen at når pengene går videre i arv,  at man så skal betale skat af dem igen. 
+    
+</div>
+
+<div>
+
+    <span style="font-size: 20px"><strong>Skal topskatten sænkes?</strong> </span> <br> <br>Vi mener at alle skal betale samme procent skat. Mange af dem, som betaler topskat og de har statistisk set også brugt mere tid og flere kræfter for at nå til deres status. Af denne grund mener vi ikke at de de skal af med så en stor anden del af deres indkomst.
+</div>
+
+<div>
+    <span style="font-size: 20px"><strong>Skal sygeplejerskerne have markant mere i løn?</strong> </span> <br> <br>Vi synes en sygeplejerske skal have mere i løn, fordi det tager lang tid at blive, og de arbejder under andre vilkår end de fleste andre offentlige virksomheder. Eksempelvis har sygeplejerskerne tit nattevagter. 
+
+</div>
+
+<div>
+<span style="font-size: 20px"><strong>Lige skat</strong> </span> <br> <br>Vi går ind for at der skal være lige skat i danmark. Det gør vi da vi synes det er fair at alle skal betale lige mange procenter. Der vil stadigvæk være forskel på hvor mange penge vi betaler hver især i skat, og det vil der være fordi det er lige procent. Vi mener heller ikke det er fair at de folk som arbejde og knokler hårdt for pengene skal beskattes mere af den grund.
+</div>
+
+<div>
+    <span style="font-size: 20px"><strong>Ingen aktie skat</strong> </span> <br> <br> Vi går ind for at der ikke skal være aktie skat. Det gør vi da vi mener at det ikke er fair at betale skat af penge man låner til folk for at gøre verden til et bedre sted. Når man investerer giver man penge til virksomheder som bruge det til at blive bedre og større. når man bliver bedre og større kræver det flere og bedre ansatte derfor bliver verden til et bedre sted. aktie investering bidrager derfor til et bedre samfund med massere af jobs. 
+</div>
+
+<div>
+<span style="font-size: 20px"><strong>Gratis skole og sundhed</strong> </span> <br> <br>  Vi mener at det skal være muligt at have gratis sundhed og skole. Det gør vi da vi mener det bidrager til et bedre og sunderer land.  
+
+</div>
+
+<div>
+
+<span style="font-size: 20px"><strong>Delvist statsborgerskab: </strong> </span> <br> <br> Delvist statsborgerskab betyder at indvandrere for et statsborgerskab som staten har mulighed for tag fra dem igen. Det synes vi der skal være, da vi går ind for at indvandrere der kommer til vores land skal bidrage positivt til vores land.
+
+</div>
+
+</div>
+
+</body>
+
+</html>
